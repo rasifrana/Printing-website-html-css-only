@@ -137,11 +137,12 @@ header .current a {
 
 #boxes .box {
   float: left;
-  width: 27%;
+  width: 28%;
+  height: 60vh;
   text-align: center;
-  background-color: #aaaaaa;
+  /*background-color: #aaaaaa;*/
+  margin: 7px;
   padding: 5px;
-  margin: 10px;
   border-radius: 10px;
   box-shadow: 1px 1px 5px 4px rgba(40, 40, 40, 0.6);
 }
@@ -151,6 +152,7 @@ header .current a {
   height: 200px;
   border-radius: 50%;
 }
+
 
 /*Sidebar*/
 
